@@ -1,4 +1,18 @@
-@import "tailwindcss";
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: #000000;
+  color: #ffffff;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
 
 @keyframes float {
   0% {
@@ -12,19 +26,6 @@
   }
 }
 
-html {
-  scroll-behavior: smooth;
-}
-
-body {
-  margin: 0;
-  background: #000000;
-  color: #000000;
-  min-height: 100vh;
-  font-family: Arial, sans-serif;
-}
-
-/* Scroll reveal animation */
 .reveal {
   opacity: 0;
   transform: translateY(50px);

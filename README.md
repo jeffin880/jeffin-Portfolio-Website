@@ -1,16 +1,95 @@
-# React + Vite
+# Jeffin Yohannan – Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern personal portfolio website built using React and Vite, showcasing my projects, skills, and academic journey as a Computer Programming & Analysis student at George Brown College.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Live Website
 
-## React Compiler
+👉 https://jeffin-portfolio-website.vercel.app
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+* React (Vite)
+* Tailwind CSS
+* JavaScript (ES6+)
+* HTML5 & CSS3
+* Vercel (Deployment)
+
+---
+
+## 📂 Features
+
+* 🧑‍💻 About Me section
+* 📁 Projects showcase
+* 📄 Resume section
+* 🎓 Academic details
+* 🎯 Career philosophy
+* ✨ Clean and modern UI design
+
+---
+
+## 📸 Screenshots
+
+> Add screenshots here after deployment
+> (Homepage, Projects section, Resume section)
+
+---
+
+## ⚙️ Installation & Setup
+
+Clone the repository:
+
+```bash
+git clone https://github.com/jeffin880/jeffin-Portfolio-Website.git
+cd jeffin-Portfolio-Website
+```
+
+Install dependencies:
+
+```bash
+npm install
+```
+
+Run locally:
+
+```bash
+npm run dev
+```
+
+---
+
+## 📦 Build for Production
+
+```bash
+npm run build
+```
+
+---
+
+## 🚀 Deployment
+
+This project is deployed using **Vercel**.
+
+---
+
+## 👨‍💻 Author
+
+**Jeffin Yohannan**
+📍 Toronto, Canada
+🎓 Computer Programming & Analysis – George Brown College
+
+---
+
+## 📌 Note
+
+This portfolio was created as part of the **COMP3078 – Portfolio Development Project**.
+
+---
+
+## ⭐ Acknowledgements
+
+* Inspiration from modern glassmorphism UI designs
+* React & Vite documentation

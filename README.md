@@ -29,14 +29,7 @@ A modern personal portfolio website built using React and Vite, showcasing my pr
 * 🎯 Career philosophy
 * ✨ Clean and modern UI design
 
----
 
-## 📸 Screenshots
-
-> Add screenshots here after deployment
-> (Homepage, Projects section, Resume section)
-
----
 
 ## ⚙️ Installation & Setup
 
